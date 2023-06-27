@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065659166890",
+    "project_id": "reactnativecrashreport",
+    "storage_bucket": "reactnativecrashreport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065659166890:android:69eb66927352cbd19a20d3",
+        "android_client_info": {
+          "package_name": "com.mynewpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065659166890-g2i6ce3vop72rqldnvn6jjib3dplk7an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQddrhQaM5Cu2syFNoiyCgS9MObdJsZzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065659166890-g2i6ce3vop72rqldnvn6jjib3dplk7an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
